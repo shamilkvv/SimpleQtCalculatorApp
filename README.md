@@ -1,2 +1,3 @@
 # SimpleQtCalculatorApp
-![image](https://github.com/shamilkvv/SimpleQtCalculatorApp/assets/151441020/b1380143-406d-4e82-81bf-a3da0c67f7a3)
+![image](https://github.com/shamilkvv/SimpleQtCalculatorApp/assets/151441020/880990c1-ed2c-4bfa-94f4-be89edfbbea6)
+
